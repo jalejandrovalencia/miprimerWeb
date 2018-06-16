@@ -1,5 +1,5 @@
- <scripts>
-     $(document) .ready(function {
+ <script>
+     $(document).ready(function (){
        $('.slider1') .bxSlider({
           mode: 'fade' 
        })
@@ -10,7 +10,4 @@
           mode: 'fade' 
        })      
        })
-
-     })
-     </scripts>
-  
+     </script>
